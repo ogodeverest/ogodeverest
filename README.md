@@ -1,10 +1,9 @@
 # About Me :
-🔭 I’m currently working on React and WebGL projects
-👯 I’m looking to collaborate on innovative projects
-🤝 I’m looking for good project ideas
-🌱 I’m currently focusing on JavaScript and WebGL
+🔭 Currently working on React and WebGL projects
+🤝 Looking to collaborate on innovative projects
+🌱 Focusing on JavaScript and WebGL
 💬 Ask me about anything related to front-end development
-⚡ Fun fact: I coded my first game when I was 17 using JavaScript
+⚡ Fun fact: I coded my first game when I was 17 using JavaScript.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/o.everest/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everest-gjonaj-25769a187/) 
