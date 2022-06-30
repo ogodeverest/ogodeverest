@@ -1,4 +1,4 @@
-# 💫About Me :
+# About Me :
 🔭 I’m currently working on React and WebGL projects
 👯 I’m looking to collaborate on innovative projects
 🤝 I’m looking for good project ideas
